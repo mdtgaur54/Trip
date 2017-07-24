@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trip</string>
+
+    <string name="sights">Sights</string>
+
+    <string name="dining">Dining</string>
+
+    <string name="shopping">Shopping</string>
+
+    <string name="hotels">Hotels</string>
+
+    <string name="sights_bangalore_palace">Bangalore Palace</string>
+
+    <string name="sights_desc_bangalore_palace">The majestic Bangalore palace, enclosed by beautiful gardens, is a famous tourist attraction in Bangalore. It is now owned by the Mysore Royal family.</string>
+
+    <string name="sights_addr_bangalore_palace">Palace Road, Near Mount Carmel Institute Of Management, Vasanth Nagar, Jayamahal, Bengaluru, Karnataka 560052</string>
+
+    <string name="sights_timing_bangalore_palace">Everyday 10:00 AM - 5:30 PM</string>
+
+    <string name="sights_price_bangalore_palace">INR 210</string>
+
+    <string name="sights_bannerghatta_national_park">Bannerghatta National Park</string>
+
+    <string name="sights_desc_bannerghatta_national_park">Housing the country\'s first butterfly park, this national park has a huge variety of fauna, making it one of the most enjoyable tourist attractions in the city. Tourists can also opt for Safari rides through the park.</string>
+
+    <string name="sights_addr_bannerghatta_national_park">
+Bannerghatta Road, District Bengaluru Urban, Bannerughatta, Bannerghatta, Karnataka 560083</string>
+
+    <string name="sights_timing_bannerghatta_national_park">9:30 AM - 5:00 PM, Closed on Tuesdays</string>
+
+    <string name="sights_price_bannerghatta_national_park">Adults: INR 80, Kids: INR 40, Senior citizens: INR 50, </string>
+
+    <string name="sights_lal_bagh">Lal Bagh</string>
+
+    <string name="sights_desc_lal_bagh">This botanical garden is a haven for all nature lovers. The garden features rare plants of French, Persian and Afghani origin and has attained the status of a Government Botanical Garden. </string>
+
+    <string name="sights_addr_lal_bagh">Mavalli, Bengaluru</string>
+
+    <string name="sights_timing_lal_bagh">Everyday 6:00 AM - 7:00 PM</string>
+
+    <string name="sights_price_lal_bagh">Adults: INR 10, Kids: Free</string>
+
+    <string name="sights_cubbon_park">Cubbon Park</string>
+
+    <string name="sights_desc_cubbon_park">This park is a major sightseeing attraction, with 300 acres of green foliage. Having been laid down by Lord Cubbon, it is an ideal place for nature lovers and those seeking a calm atmosphere. It features a bandstand that hosts concerts. </string>
+
+    <string name="sights_addr_cubbon_park">Sampangi Rama Nagar, Bengaluru</string>
+
+    <string name="sights_timing_cubbon_park">6:00 AM - 6:00 PM, Closed on Mondays and second Tuesdays </string>
+
+    <string name="sights_price_cubbon_park">Free</string>
+
+    <string name="sights_wonder_la_water_park">Wonder La Water Park</string>
+
+    <string name="sights_desc_wonder_la_water_park">Wonder La is said to be the best amusement park in the city and attracts all those looking for a rush of adrenaline. It also features some relaxed, fun rides, hence providing something for every visitor.</string>
+
+    <string name="sights_addr_wonder_la_water_park">Mysore Road, Bengaluru</string>
+
+    <string name="sights_timing_wonder_la_water_park">Mon - Fri: 11:00 AM - 6:00 PM; Sat, Sun: 11:00 AM - 7:00 PM</string>
+
+    <string name="sights_price_wonder_la_water_park">Weekdays - Adults INR 590, Kids INR 460, senior citizens INR 390; Weekends - INR 730 / 540 / 470 </string>
+
+    <string name="sights_bull_temple">Bull Temple</string>
+
+    <string name="sights_desc_bull_temple">This temple is one of the oldest in Bengaluru, and is dedicated to Nandi, the bull who is the wagon of Lord Shiva.</string>
+
+    <string name="sights_addr_bull_temple">Basavanagudi, Bengaluru</string>
+
+    <string name="sights_timing_bull_temple">Everyday 6:00 AM - 8:00 PM </string>
+
+    <string name="sights_price_bull_temple">Free</string>
+
+    <string name="sights_ulsoor_lake">Ulsoor Lake</string>
+
+    <string name="sights_desc_ulsoor_lake">Constructed by Kempe Gowda II in the 2nd century, this lake was earlier known as Halsur or Alasur. Although not fit for swimming, boating can be enjoyed at the lake.</string>
+
+    <string name="sights_addr_ulsoor_lake">Ulsoor, Bengaluru</string>
+
+    <string name="sights_timing_ulsoor_lake"> Best Time to visit is during day hours in favorable seasons.</string>
+
+    <string name="sights_price_ulsoor_lake">Free</string>
+
+    <string name="sights_iskcon_temple">ISKCON Temple</string>
+
+    <string name="sights_desc_iskcon_temple">Apart from a religious temple, ISKCON is a cultural complex accommodating dedicated deities of Sri Sri Radha Krishnachandra. Iskcon Temple is known for its activities of engagement involving ardent devotees of the Lord Krishna. </string>
+
+    <string name="sights_addr_iskcon_temple">Rajaji Nagar, Bengaluru</string>
+
+    <string name="sights_timing_iskcon_temple">Everyday 4:15AM - 5:00 AM, 7:15AM - 1:00 PM and 4:00 PM - 8:30 PM</string>
+
+    <string name="sights_price_iskcon_temple">Free</string>
+
+    <string name="sights_hal_aerospace_museum">HAL Aerospace Museum</string>
+
+    <string name="sights_desc_hal_aerospace_museum">HAL Aerospace museum is India\'s first Aerospace museum established by HAL (Hindustan Aeronautical Limited) in 2001. The place is a must visit for all the people wishing to witness the glory and growth of the Indian Aviation Industry through the passage of time.</string>
+
+    <string name="sights_addr_hal_aerospace_museum">HAL, Bengaluru</string>
+
+    <string name="sights_timing_hal_aerospace_museum">Everyday 9:00 AM - 5:00 PM</string>
+
+    <string name="sights_price_hal_aerospace_museum">Adult: INR 30, Kids: INR 20</string>
+
+    <string name="sights_jawaharlal_nehur_plentarium">Jawaharlal Nehru Planetarium</string>
+
+    <string name="sights_desc_jawaharlal_nehur_plentarium">The Planetarium aims at "Science Popularization", which it seeks through various interacting activities for students and visitors at its Sky Theatre, Exhibition Hall or the Science Park.</string>
+
+    <string name="sights_addr_jawaharlal_nehur_plentarium">High Grounds, Bengaluru</string>
+
+    <string name="sights_timing_jawaharlal_nehur_plentarium">12:30 PM - 4:00 PM, Closed on Mondays </string>
+
+    <string name="sights_price_jawaharlal_nehur_plentarium">Adults: INR 35, Kids: INR 20</string>
+
+    <string name="sights_chunchi_falls">Chunchi Falls</string>
+
+    <string name="sights_desc_chunchi_falls">Chunchi falls, is an almost 50 feet high cascade of falls. The best time to visit this fall would be right after the monsoon when there is enough water in the Arkavathi river.</string>
+
+    <string name="sights_addr_chunchi_falls">Kanakapura</string>
+
+    <string name="sights_timing_chunchi_falls">Best Time to visit is during day hours in favorable seasons.</string>
+
+    <string name="sights_price_chunchi_falls">Free</string>
+
+    <string name="sights_vidhan_soudha">Vidhan Soudha</string>
+
+    <string name="sights_desc_vidhan_soudha">it houses the legislature and the Secretariat of the state of Karnataka. It also proudly boasts the title of being the largest state legislative building in the country.</string>
+
+    <string name="sights_addr_vidhan_soudha">Sampangi Rama Nagar, Bengaluru</string>
+
+    <string name="sights_timing_vidhan_soudha">9:00 AM - 5:00 PM (Closed on weekends)</string>
+
+    <string name="sights_price_vidhan_soudha">Free</string>
+
+    <string name="sights_bangalore_aquarium">Bangalore Aquarium</string>
+
+    <string name="sights_desc_bangalore_aquarium">Located in Cubbon Park, the Bangalore Aquarium is the most famous and largest aquarium in Bangalore and the second largest in India. Established in the year 1983, this aquarium has on display a variety of ornamental as well as exotic fishes.</string>
+
+    <string name="sights_addr_bangalore_aquarium">Near Chinnaswamy Cricket Stadium, Bengaluru</string>
+
+    <string name="sights_timing_bangalore_aquarium">10:30 AM - 5:30 PM, Closed on  Mondays and second Tuesdays</string>
+
+    <string name="sights_price_bangalore_aquarium">Adult: INR 15, Kids: Free</string>
+
+    <string name="sights_innovative_film_city">Innovative Film City</string>
+
+    <string name="sights_desc_innovative_film_city">Innovative Film City is one of the most popular tourist attractions in Bangalore. Spend a day here enjoying the countless sections such as the Wild Wild West, Miniature City, Cartoon City, Water rides, Wannado City, Fashion Cafe and more.</string>
+
+    <string name="sights_addr_innovative_film_city">Baidali Industrial Area, Bengaluru</string>
+
+    <string name="sights_timing_innovative_film_city">Everyday 10:00 AM - 7:00 PM</string>
+
+    <string name="sights_price_innovative_film_city"> INR 600 before 3:00 PM and INR 400 after 3:00 PM</string>
+
+    <string name="sights_lumbini_gardens">Lumbini Gardens</string>
+
+    <string name="sights_desc_lumbini_gardens">Lumbini Gardens is a public park on the banks of the Nagawara Lake. It contains an eco-friendly boating park and a 12,500 square foot artificial beach and children_ã_s pool. The park has developed as an amusement park for children.</string>
+
+    <string name="sights_addr_lumbini_gardens">Ring Road, Hebbal, Bengaluru</string>
+
+    <string name="sights_timing_lumbini_gardens">Everyday 11:00 AM - 7:00 PM</string>
+
+    <string name="sights_price_lumbini_gardens">INR 50 Entry fee, 50 Boating fee, 200 Wavepool fee</string>
+
+    <string name="sights_tipu_sultan_palace">Tipu Sulatn\'s Palace</string>
+
+    <string name="sights_desc_tipu_sultan_palace">This monument is located inside the Tipu Sultan Fort. Built between 1781 and 1791, the Emperor referred to it as the \'Rash-e-Jannat\' which means the abode of happiness and envy of heaven.</string>
+
+    <string name="sights_addr_tipu_sultan_palace">Chamrajpet, Bengaluru</string>
+
+    <string name="sights_timing_tipu_sultan_palace">Everyday 8:30 AM - 5:30 PM</string>
+
+    <string name="sights_price_tipu_sultan_palace"> INR 5</string>
+
+    <string name="sights_saint_mary_basllica">St. Mary\'s Basilica</string>
+
+    <string name="sights_desc_saint_mary_basllica">St. Mary\'s Basilica is the oldest church in Bangalore and is the only church in the state that has been elevated to the status of a minor basilica</string>
+
+    <string name="sights_addr_saint_mary_basllica">Shivaji Nagar, Bengaluru</string>
+
+    <string name="sights_timing_saint_mary_basllica">Everyday 6:00 AM - 8:00 PM</string>
+
+    <string name="sights_price_saint_mary_basllica">Free</string>
+
+    <string name="sights_shiva_temple">Shiva Temple</string>
+
+    <string name="sights_desc_shiva_temple">This temple is considered as one of the most beautiful shiva temples around the country. The beautiful statues of Lord Shiva and Lord Ganapathi are a major attraction for all the devotees visiting the temple.</string>
+
+    <string name="sights_addr_shiva_temple">Old Airport road, Bengaluru</string>
+
+    <string name="sights_timing_shiva_temple">Anytime</string>
+
+    <string name="sights_price_shiva_temple">Free</string>
+
+    <string name="dining_hoot">Hoot</string>
+
+    <string name="dining_desc_hoot">North Indian, Continental, Finger Food.\nThe restaurant serves a wide array of drinks and cocktails along with lip-smacking finger food. </string>
+
+    <string name="dining_addr_hoot">2034 Sarjapur Main Road Kaikondrahalli, Bengaluru, IN 560035 </string>
+
+    <string name="dining_timing_hoot">12:00 PM to 11:00 PM</string>
+
+    <string name="dining_price_hoot">Cost for two: INR 1400</string>
+
+    <string name="dining_ph_hoot">080 6959 5999</string>
+
+    <string name="dining_big_brewsky">Big Brewsky</string>
+
+    <string name="dining_desc_big_brewsky">North Indian, Italian, Continental, Thai.\nBig Brewsky is a microbrewery and is for people who very specific about the fine and superior quality of drinks and service. A comfortable and awesome ambiance surely makes your visit memorable.</string>
+
+    <string name="dining_addr_big_brewsky">10/61/2A/2 and 10/62/2A/3, Behind MK Retail Sarjapur Road, South Bangalore</string>
+
+    <string name="dining_timing_big_brewsky">12:30 PM to 11:00 PM</string>
+
+    <string name="dining_price_big_brewsky">Cost for two: INR 1500</string>
+
+    <string name="dining_ph_big_brewsky">080 3951 4766</string>
+
+    <string name="dining_biergarten">Biergarten</string>
+
+    <string name="dining_desc_biergarten">Chinese, Continental, European.\nBiergarten is a casual-dining restaurant that is for people who want to go for a fulsome meal.It is a perfect place for people of all age-groups who like to spend quality time with friends and family.</string>
+
+    <string name="dining_addr_biergarten">Doddanekkundi Industrial Area, Mahadevapura Whitefield, East Bangalore </string>
+
+    <string name="dining_timing_biergarten">12:00 PM to 11:30 PM</string>
+
+    <string name="dining_price_biergarten">Cost for two: INR 1500</string>
+
+    <string name="dining_ph_biergarten">096202 06474</string>
+
+    <string name="dining_flenchazo">Flechazo</string>
+
+    <string name="dining_desc_flenchazo">North Indian, Mediterranean, Asian.\nFlechazo is well known for its specific finesse of fine dine experience with quick and friendly services. This is for the crowd who looks for great flavors of North Indian and Chinese cuisines along with an attractive ambiance.</string>
+
+    <string name="dining_addr_flenchazo">9/1, 1st Floor, VRR Orchid, Above Surya Nissan Showroom, Doddanekkundi Marathahalli, East Bangalore</string>
+
+    <string name="dining_timing_flenchazo">11:30 AM to 04:00 PM\n06:30 PM to 01:00 AM</string>
+
+    <string name="dining_price_flenchazo">Cost for two: INR 1300</string>
+
+    <string name="dining_ph_flenchazo">076765 01111</string>
+
+    <string name="dining_tippler">Tippler - On the Roof</string>
+
+    <string name="dining_desc_tippler">North Indian, Continental, Finger Food.\nTippler - On The Roof is a Russian lounge and restaurant.This is a place where you will get a variety of drinks and a fun and awesome ambiance. This place is an instant hit amongst youngsters and amongst people who wants to experience the nightlife.</string>
+
+    <string name="dining_addr_tippler">276, 3rd Floor, 100 Feet Road Indiranagar, East Bangalore</string>
+
+    <string name="dining_timing_tippler">12:00 PM to 01:00 AM</string>
+
+    <string name="dining_price_tippler">Cost for two: INR 1000</string>
+
+    <string name="dining_ph_tippler">088801 07107</string>
+
+    <string name="dining_float">Float</string>
+
+    <string name="dining_desc_float">Fusion\nFloat is a unique Moroccan themed rooftop lounge. The restaurant offers an eclectic menu of Global and Fusion cuisine. Float provides a completely one of a kind heart-filling experience for food lovers.</string>
+
+    <string name="dining_addr_float">20\5, 3rd Floor, Block 12, Sarjapur Outer Ring Road, Kaverappa Layout, Kadubeessanahalli Marathahalli, East Bangalore</string>
+
+    <string name="dining_timing_float">12:00 PM to 01:00 AM</string>
+
+    <string name="dining_price_float">Cost for two: INR 1500</string>
+
+    <string name="dining_ph_float">090668 87086</string>
+
+    <string name="dining_vapour_pub">Vapour Pub and Brewery</string>
+
+    <string name="dining_desc_vapour_pub">North Indian, Chinese, Continental, Finger Food.\nVapour Pub has its own micro-brewery that leaves you intoxicating. Apart from an extensive bar menu, Vapour Pub and Brewery also serves North Indian, Continental, and Chinese cuisine for the non-drinkers.</string>
+
+    <string name="dining_addr_vapour_pub">773, 100 Feet Road, HAL 2nd Stage Indiranagar, East Bangalore</string>
+
+    <string name="dining_timing_vapour_pub">12:00 PM to 01:00 AM</string>
+
+    <string name="dining_price_vapour_pub">Cost for two: INR 1500</string>
+
+    <string name="dining_ph_vapour_pub">099000 88192</string>
+
+    <string name="dining_mudpipe_cafe">Mudpipe Cafe</string>
+
+    <string name="dining_desc_mudpipe_cafe">Italian, Continental, Mexican\nMudpipe Cafe is a casual dining restaurant that gives you a one of a kind experience with its service and fine quality of food. The affordable menu also features a Coffee section for all the Coffee lovers.</string>
+
+    <string name="dining_addr_mudpipe_cafe">KDP Building, 4th Floor, 1, Hosur Main Road, 7th Block, Suddagunte Palya Koramangala, South Bangalore</string>
+
+    <string name="dining_timing_mudpipe_cafe">11:00 AM to 01:00 AM</string>
+
+    <string name="dining_price_mudpipe_cafe">Cost for two: INR 800</string>
+
+    <string name="dining_ph_mudpipe_cafe">080 4965 2859</string>
+
+    <string name="dining_roots">Roots</string>
+
+    <string name="dining_desc_roots">North Indian, Chinese, Mughlai.\nThe restaurant has a spacious and beautiful ambiance and serves North Indian, Chinese, and Mughlai dishes. The Premium menu is in line with people of varied tastes and preferences. Roots provides a completely one of a kind soothing experience for food lovers</string>
+
+    <string name="dining_addr_roots">RNS Square, 43/A, Ground Floor, 1st Main, Jakkasandra Road, 1st Block Koramangala, South Bangalore</string>
+
+    <string name="dining_timing_roots">12:00 PM to 04:00 PM\n07:00 PM to 11:30 PM</string>
+
+    <string name="dining_price_roots">Cost for two: INR 1200</string>
+
+    <string name="dining_ph_roots">080 4171 1119</string>
+
+    <string name="dining_barbeque_nation">Barbeque Nation</string>
+
+    <string name="dining_desc_barbeque_nation">North Indian, Mediterranean, Barbecue.\nBarbeque Nation has brought to India the unique concept of the live grill. This is the best place for all those people who want to try something different from a regular conventional dishes and are bar-be-que lovers with that special deviation for smoked food.</string>
+
+    <string name="dining_addr_barbeque_nation">67, 3rd Floor and 4th Floor, 6th B Main Road, 15th Cross, 3rd Phase JP Nagar, South Bangalore</string>
+
+    <string name="dining_timing_barbeque_nation">12:00 PM to 03:30 PM\n06:30 PM to 11:00 PM</string>
+
+    <string name="dining_price_barbeque_nation">Cost for two: INR 1800</string>
+
+    <string name="dining_ph_barbeque_nation">080 6060 0001</string>
+
+    <string name="shopping_orion">Orion Mall</string>
+
+    <string name="shopping_desc_orion">The mall has wide range of shopping ,food and entertainment.Many fine dining restaurants and cuisines including lake side al fresco service.For entertainment it has PVR cinemas and BluO the biggest cosmic bowling alley in with 27 lanes.Apart from this many events and live performance by different artists is carried out during festive season.</string>
+
+    <string name="shopping_addr_orion">Malleshwaram West, Bengaluru</string>
+
+    <string name="shopping_phoenix_city">Phoenix City</string>
+
+    <string name="shopping_desc_phoenix_city">It offers a wide range of shopping and you can find all top brands stores from all over the world.It has a big food court and many restaurants offering you with wide range of Italian and Indian delicacies.It also has spacious outdoor play area for kids.Apart from this Live Pianist shall be performing every day to entertain you during the evening time.All in short this is the best place to spend time on weekend.This mall is one of the best shopping mall in Bangalore.</string>
+
+    <string name="shopping_addr_phoenix_city">Mahadevpura, Bengaluru</string>
+
+    <string name="shopping_mantri_square">Mantri Square Mall</string>
+
+    <string name="shopping_desc_mantri_square">It is one of the biggest shopping malls in Bangalore situated at Sampige Road, Malleswarm spreading over 1.3 million square fit.It is a perfect place for fun, food and entertainment.It has more than 200 shopping brands, more than 2000 delicacies to savor and for entertainment scary house, Inox ,Planet M and many more.Apart from this it provides many other facilities and services.But the only main concern is the parking problem.</string>
+
+    <string name="shopping_addr_mantri_square">Malleshwaram West, Bengaluru</string>
+
+    <string name="shopping_collection_ub_city">Collection UB City Mall</string>
+
+    <string name="shopping_desc_collection_ub_city">UB city is India’s first luxury shopping destination located at Central Business District of Bangalore on Vittal Mallya Road, UB City.Spread across 3 level it has some of the 40 nationality and internationally best acclaimed brands, exquisite jewellery and accessories,culinary delights and hip night spots.Whether you are looking at music concerts,fashion shows or exclusive store launches or art events then this the right place to visit UB City that serves as a one stop destination for all this and more.</string>
+
+    <string name="shopping_addr_collection_ub_city">Vittal Mallya Road, Bengaluru</string>
+
+    <string name="shopping_inorbit">Inorbit Mall</string>
+
+    <string name="shopping_desc_inorbit">Situated at whitefield spread across 4,21,000 sq ft is an excellent walk through experience for the customers.This is the newest mall launched on 15 august 2012.It has a perfect mix of national and international brands,  it seeks to provide a one-stop destination for fashion, lifestyle, food and entertainment leading to an international experience for families.</string>
+
+    <string name="shopping_addr_inorbit">Whitefield, Bengaluru</string>
+
+    <string name="shopping_royal_meenakshi">Royal Meenkshi Mall</string>
+
+    <string name="shopping_desc_royal_meenakshi">It is South Bangalore first complete mall with a hypermarket, retail, entertainment and multiplex.For Shopping it has wide range of latest designer dress collection,accessories and many more.It has many delicacies to savor starting from Italian pizzas to rajdhani thali,for entertainment purpose it has cinepolis ,dark house ,adventure land 6D and many more fun activities.Thus making it South Banglore’s best leisure destination.</string>
+
+    <string name="shopping_addr_royal_meenakshi">Hulimavu, Bengaluru</string>
+
+    <string name="shopping_ascendas_park_square">Ascendas Park square mall</string>
+
+    <string name="shopping_desc_ascendas_park_square">Park Square is situated in the iconic ITPL Road, ITPB Whitefield developed by Ascendas, Asia’s premier business space solutions provider, Park Square is truly the Space to Be.Fun, fashion, food whatever product, service and business, Park Square has space for almost everything.It has 24,000 sq ft food court with an outdoor dining terrace, for entertainment it has Q Cinemas Multiplex Theater that offers a high class services such as 3D high definition movie watching.It also has kids play area, biggest reliance stores,multi level car park and many more.</string>
+
+    <string name="shopping_addr_ascendas_park_square">Whitefield, Bengaluru</string>
+
+    <string name="shopping_new_forum_value">New Forum Value Mall</string>
+
+    <string name="shopping_desc_new_forum_value">The new forum value mall  located at whitefield spread over 680,000 sq ft is one of the largest shopping mall in bangalore.With over 100 different brands that too at resonable price makes the perfect shopping for any occasion.It has foodcourt where you get all your favourite delicacies, indoor kidsplayarea ,fashionable accessories, electronic gadgets and for entertainment 5 screen fame multiplex which includes Gold class.</string>
+
+    <string name="shopping_addr_new_forum_value">Whitefield, Bengaluru</string>
+
+    <string name="shopping_bangalore_central">Bangalore Central Mall</string>
+
+    <string name="shopping_desc_bangalore_central">There are many Central malls in bangalore but the best one that is located at Jayanagar spreading over 2,75,000 sq ft.It is large departmental store with many retailers.It is one of the best place for shopping where you get all kind of fashionable clothes and accessories with reasonable price rates.It has foodcourt,cinemax for entertainment and big grossery store where you can get all desired grossery items .It is the dream place for shopping lovers.</string>
+
+    <string name="shopping_addr_bangalore_central">Ashok Nagar, Bengaluru</string>
+
+    <string name="shopping_garuda">Garuda Mall</string>
+
+    <string name="shopping_desc_garuda">It is situated near Brigade Road, and is one among the popular malls in Bangalore spreading out over 280,000 sq ft.It has six floors and almost 180 store for shopping and entertainment.It has all the top brands collections, for entertainment it has the multiplex cinemas inox, scary house , food court and multi-cuisine restaurants to give you fine dining experience, offering delectable cuisines.</string>
+
+    <string name="shopping_addr_garuda">Ashok Nagar, Bengaluru</string>
+
+    <string name="hotel_taj_west_end">Taj West End</string>
+
+    <string name="hotel_desc_taj_west_end">The Taj West End is Bangalore\'s unique 5-star deluxe hotel. Situated near the city centre, the hotel\'s 20 acres of landscaped gardens are a fine tribute to Bangalore, the garden city of India. Guests can escape to any of 122 rooms including 16 suites, overlooking wooded glades and rambling pathways. </string>
+
+    <string name="hotel_addr_taj_west_end">Sampangi Rama Nagar, Bengaluru</string>
+
+    <string name="hotel_ph_taj_west_end">080666 05660</string>
+
+    <string name="hotel_lalit_ashok">The Lalit Ashok</string>
+
+    <string name="hotel_desc_lalit_ashok">This Bangalore five star hotel offers 184 fully furnished extra large guest rooms and suites spread over 8 floors, all lavishly decorated and extravagantly pampering and newly renovated, boasting of modern guest amenities and facilities.</string>
+
+    <string name="hotel_addr_lalit_ashok">Next to CM Guest House, Bengaluru</string>
+
+    <string name="hotel_ph_lalit_ashok">080 3052 7777</string>
+
+    <string name="hotel_itc_windsor">ITC Windsor</string>
+
+    <string name="hotel_desc_itc_windsor">The ITC Windsor, Bengaluru merges an old world ambiance with international service to create a hotel experience that goes beyond expectation. The hotel has long acquired a reputation of playing host to the aristocracy of the world.</string>
+
+    <string name="hotel_addr_itc_windsor">Golf Course Road, Bengaluru</string>
+
+    <string name="hotel_ph_itc_windsor">080 2226 9898</string>
+
+    <string name="hotel_oberoi">The Oberoi Bangalore</string>
+
+    <string name="hotel_desc_oberoi">At The Oberoi, Bangalore, all the tastefully appointed rooms overlook landscaped gardens and guests can enjoy cuisine from around the world. The hotel offers impeccable service, understated luxury, fine cuisine and most modern facilities for discerning business travelers.</string>
+
+    <string name="hotel_addr_oberoi">Sivanchetti Gardens, Bengaluru</string>
+
+    <string name="hotel_ph_oberoi">080 2558 5858</string>
+
+    <string name="hotel_park_plaza">Park Plaza Bangalore Hotel</string>
+
+    <string name="hotel_desc_park_plaza">Redefining luxury and class, Park Plaza is proud to deliver its renowned international expertise to India\'s IT hub to provide a wholly new and refined Bangalore hotel experience. Park Plaza Bengaluru boasts 234 Deluxe Rooms and Suites that feature contemporary design and bright decor. </string>
+
+    <string name="hotel_addr_park_plaza">Marathahalli, Bengaluru</string>
+
+    <string name="hotel_ph_park_plaza">080670 76909</string>
+
+    <string name="hotel_itc_royal_gardenia">ITC Royal Gardenia</string>
+
+    <string name="hotel_desc_itc_royal_gardenia">It is the first green luxury hotel in the city that believes in delivering the best in \'Responsible Luxury\' and giving back more to the environment. The hotel offers 292 large and well equipped rooms, including 13 suites and the largest Presidential Suite in India.</string>
+
+    <string name="hotel_addr_itc_royal_gardenia">Ashok Nagar, Bengaluru</string>
+
+    <string name="hotel_ph_itc_royal_gardenia">080 2211 9898</string>
+
+    <string name="hotel_ritz_carlton">Ritz Carlton Bangalore</string>
+
+    <string name="hotel_desc_ritz_carlton">Embracing a contemporary atmosphere with understated elegance, The Ritz-Carlton, Bangalore features natural elements of foliage, water, stone, and fire that reflect the vibrant landscape of India combined with the intricate jaali design. A perfect sanctuary for the business and leisure traveler, the hotel features 277 luxury rooms and plush suites.</string>
+
+    <string name="hotel_addr_ritz_carlton">Ashok Nagar, Bengaluru</string>
+
+    <string name="hotel_ph_ritz_carlton">080 4914 8000</string>
+
+    <string name="hotel_moevenpick">Moevenpick Hotel and Spa Bangalore</string>
+
+    <string name="hotel_desc_moevenpick">Conveniently accessible in just 30 minutes from the airport, the Moevenpick Hotel and Spa Bangalore embodies Indian hospitality delivered with Swiss passion. This brand new 182 room five star hotel of Bangalore city also offers a variety of dining experiences to choose from.</string>
+
+    <string name="hotel_addr_moevenpick">Mathikere, Bengaluru</string>
+
+    <string name="hotel_ph_moevenpick">080 4300 1000</string>
+
+    <string name="hotel_leela_palace">The Leela Palace</string>
+
+    <string name="hotel_desc_leela_palace">The Leela Palace Bangalore mirrors the lushness of the Garden City. Harking back to the royal heritage of the Vijaynagar Dynasty, this luxury hotel in Bangalore earns it name by showcasing gold leaf domes, ornate ceiling and grand arches, making it one of the most admired Bangalore hotels.</string>
+
+    <string name="hotel_addr_leela_palace">Kodihalli, Bengaluru</string>
+
+    <string name="hotel_ph_leela_palace">080 2521 1234</string>
+
+    <string name="hotel_hyatt">Hyatt</string>
+
+    <string name="hotel_desc_hyatt">Hyatt Bangalore MG Road offers 143 well-appointed guestrooms as well as a selection of world class dining, available in the hotel\’s two restaurants and bar. The hotel offers exclusive meeting and banquet venues as well as a state-of-the-art Business Centre, making it an ideal choice for the discerning traveller.</string>
+
+    <string name="hotel_addr_hyatt">Ulsoor, Bengaluru</string>
+
+    <string name="hotel_ph_hyatt">080 4936 1234</string>
+
+    <string name="hotel_zuri_whitefield">The Zuri Whitefield</string>
+
+    <string name="hotel_desc_zuri_whitefield">The trendy 5 star The Zuri Whitefield gives you a feel of elegance and cool urbanity for all kinds of business meets and pleasure pursuits. This hotel features an outdoor swimming pool, health club with fitness equipment, meeting rooms, and on-site dining option.</string>
+
+    <string name="hotel_addr_zuri_whitefield">Whitefield, Bengaluru</string>
+
+    <string name="hotel_ph_zuri_whitefield">080666 57272</string>
+
+
+</resources>

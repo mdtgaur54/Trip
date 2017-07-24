@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="actionBarStyle">@style/barStyle</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="barStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="elevation">0dp</item>
+    </style>
+
+    <style name="tab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">#80D7FF</item>
+        <item name="tabSelectedTextColor">#80D7FF</item>
+        <item name="tabTextAppearance">@style/TabTextAppearance</item>
+    </style>
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#0272A6</item>
+    </style>
+
+    <style name="title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="description">
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="otherinfo">
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+</resources>
