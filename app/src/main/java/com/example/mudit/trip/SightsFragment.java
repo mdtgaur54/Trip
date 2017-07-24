@@ -48,7 +48,7 @@ public class SightsFragment extends Fragment {
         item.add(new Item(R.drawable.sights_basilica_church, getString(R.string.sights_saint_mary_basllica), getString(R.string.sights_desc_saint_mary_basllica), getString(R.string.sights_addr_saint_mary_basllica), getString(R.string.sights_timing_saint_mary_basllica), getString(R.string.sights_price_saint_mary_basllica)));
         item.add(new Item(R.drawable.sights_shiva_temple, getString(R.string.sights_shiva_temple), getString(R.string.sights_desc_shiva_temple), getString(R.string.sights_addr_shiva_temple), getString(R.string.sights_timing_shiva_temple), getString(R.string.sights_price_shiva_temple)));
 
-        TripAdapter adapter = new TripAdapter(getActivity(), item);
+        TripAdapter adapter = new TripAdapter(getActivity(), item, R.color.sights_color);
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);

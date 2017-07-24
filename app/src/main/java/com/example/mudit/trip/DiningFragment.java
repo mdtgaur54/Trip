@@ -40,7 +40,7 @@ public class DiningFragment extends Fragment {
         item.add(new Item(R.drawable.dining_roots, getString(R.string.dining_roots), getString(R.string.dining_desc_roots), getString(R.string.dining_addr_roots), getString(R.string.dining_timing_roots), getString(R.string.dining_price_roots), getString(R.string.dining_ph_roots)));
         item.add(new Item(R.drawable.dining_barbeque_nation, getString(R.string.dining_barbeque_nation), getString(R.string.dining_desc_barbeque_nation), getString(R.string.dining_addr_barbeque_nation), getString(R.string.dining_timing_barbeque_nation), getString(R.string.dining_price_barbeque_nation), getString(R.string.dining_ph_barbeque_nation)));
 
-        TripAdapter adapter = new TripAdapter(getActivity(), item);
+        TripAdapter adapter = new TripAdapter(getActivity(), item, R.color.dining_color);
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);

@@ -4,4 +4,9 @@
     <color name="colorPrimaryDark">#002D33</color>
     <color name="colorAccent">#FF4081</color>
 
+    <color name="sights_color">#16AFCA</color>
+    <color name="dining_color">#EF5350</color>
+    <color name="shopping_color">#CE93D8</color>
+    <color name="hotels_color">#FFD54F</color>
+
 </resources>

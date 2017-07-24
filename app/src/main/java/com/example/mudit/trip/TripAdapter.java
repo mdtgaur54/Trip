@@ -4,6 +4,7 @@ import android.content.Context;
 import android.support.annotation.LayoutRes;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -16,11 +17,12 @@ import java.util.ArrayList;
 /**
  * Created by mudit on 6/7/17.
  */
-
 public class TripAdapter extends ArrayAdapter<Item> {
+    private int tColorResourceId;
 
-    public TripAdapter(@NonNull Context context, ArrayList<Item> items) {
+    public TripAdapter(@NonNull Context context, ArrayList<Item> items, int colorResourceId) {
         super(context, 0, items);
+        tColorResourceId = colorResourceId;
     }
 
     @NonNull
@@ -70,6 +72,10 @@ public class TripAdapter extends ArrayAdapter<Item> {
             phoneView.setText(currentItemPhone);
             phoneView.setVisibility(View.VISIBLE);
         }
+
+        View textContainer = convertView.findViewById(R.id.text_container);
+        int color = ContextCompat.getColor(getContext(), tColorResourceId);
+        textContainer.setBackgroundColor(color);
 
         return convertView;
     }

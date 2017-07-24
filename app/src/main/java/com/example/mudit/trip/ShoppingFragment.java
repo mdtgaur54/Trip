@@ -40,7 +40,7 @@ public class ShoppingFragment extends Fragment {
         item.add(new Item(R.drawable.mall_bangalore_central, getString(R.string.shopping_bangalore_central), getString(R.string.shopping_desc_bangalore_central), getString(R.string.shopping_addr_bangalore_central)));
         item.add(new Item(R.drawable.mall_garuda, getString(R.string.shopping_garuda), getString(R.string.shopping_desc_garuda), getString(R.string.shopping_addr_garuda)));
 
-        TripAdapter adapter = new TripAdapter(getActivity(), item);
+        TripAdapter adapter = new TripAdapter(getActivity(), item, R.color.shopping_color);
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);

@@ -41,7 +41,7 @@ public class HotelsFragment extends Fragment {
         item.add(new Item(R.drawable.hotel_hyatt, getString(R.string.hotel_hyatt), getString(R.string.hotel_desc_hyatt), getString(R.string.hotel_addr_hyatt), getString(R.string.hotel_ph_hyatt)));
         item.add(new Item(R.drawable.hotel_zuri_whitefield, getString(R.string.hotel_zuri_whitefield), getString(R.string.hotel_desc_zuri_whitefield), getString(R.string.hotel_addr_zuri_whitefield), getString(R.string.hotel_ph_zuri_whitefield)));
 
-        TripAdapter adapter = new TripAdapter(getActivity(), item);
+        TripAdapter adapter = new TripAdapter(getActivity(), item, R.color.hotels_color);
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
